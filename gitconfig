@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = antoine.mendy@hotmail.fr
+	name = antoine mendy
